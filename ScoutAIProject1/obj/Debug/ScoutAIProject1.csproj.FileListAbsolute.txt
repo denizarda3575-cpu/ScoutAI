@@ -1,0 +1,9 @@
+C:\Users\casper\source\repos\ScoutAIProject1\ScoutAIProject1\bin\Debug\ScoutAIProject1.exe.config
+C:\Users\casper\source\repos\ScoutAIProject1\ScoutAIProject1\bin\Debug\ScoutAIProject1.exe
+C:\Users\casper\source\repos\ScoutAIProject1\ScoutAIProject1\bin\Debug\ScoutAIProject1.pdb
+C:\Users\casper\source\repos\ScoutAIProject1\ScoutAIProject1\obj\Debug\ScoutAIProject1.csproj.AssemblyReference.cache
+C:\Users\casper\source\repos\ScoutAIProject1\ScoutAIProject1\obj\Debug\ScoutAIProject1.Properties.Resources.resources
+C:\Users\casper\source\repos\ScoutAIProject1\ScoutAIProject1\obj\Debug\ScoutAIProject1.csproj.GenerateResource.cache
+C:\Users\casper\source\repos\ScoutAIProject1\ScoutAIProject1\obj\Debug\ScoutAIProject1.csproj.CoreCompileInputs.cache
+C:\Users\casper\source\repos\ScoutAIProject1\ScoutAIProject1\obj\Debug\ScoutAIProject1.exe
+C:\Users\casper\source\repos\ScoutAIProject1\ScoutAIProject1\obj\Debug\ScoutAIProject1.pdb

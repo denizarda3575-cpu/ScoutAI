@@ -1,0 +1,48 @@
+C:\Users\casper\source\repos\ScoutAIProject1\ScoutAI.UI\bin\Debug\ScoutAI.UI.exe.config
+C:\Users\casper\source\repos\ScoutAIProject1\ScoutAI.UI\bin\Debug\ScoutAI.UI.exe
+C:\Users\casper\source\repos\ScoutAIProject1\ScoutAI.UI\bin\Debug\ScoutAI.UI.pdb
+C:\Users\casper\source\repos\ScoutAIProject1\ScoutAI.UI\bin\Debug\ScoutAI.BLL.dll
+C:\Users\casper\source\repos\ScoutAIProject1\ScoutAI.UI\bin\Debug\ScoutAI.Dal.dll
+C:\Users\casper\source\repos\ScoutAIProject1\ScoutAI.UI\bin\Debug\ScoutAI.Entities.dll
+C:\Users\casper\source\repos\ScoutAIProject1\ScoutAI.UI\bin\Debug\ScoutAI.Helpers.dll
+C:\Users\casper\source\repos\ScoutAIProject1\ScoutAI.UI\bin\Debug\ScoutAI.BLL.pdb
+C:\Users\casper\source\repos\ScoutAIProject1\ScoutAI.UI\bin\Debug\ScoutAI.Dal.pdb
+C:\Users\casper\source\repos\ScoutAIProject1\ScoutAI.UI\bin\Debug\ScoutAI.Entities.pdb
+C:\Users\casper\source\repos\ScoutAIProject1\ScoutAI.UI\bin\Debug\ScoutAI.Helpers.pdb
+C:\Users\casper\source\repos\ScoutAIProject1\ScoutAI.UI\obj\Debug\ScoutAI.UI.csproj.AssemblyReference.cache
+C:\Users\casper\source\repos\ScoutAIProject1\ScoutAI.UI\obj\Debug\ScoutAI.UI.AdminMainForm.resources
+C:\Users\casper\source\repos\ScoutAIProject1\ScoutAI.UI\obj\Debug\ScoutAI.UI.AiScoutReportsForm.resources
+C:\Users\casper\source\repos\ScoutAIProject1\ScoutAI.UI\obj\Debug\ScoutAI.UI.PlayerDetailForm.resources
+C:\Users\casper\source\repos\ScoutAIProject1\ScoutAI.UI\obj\Debug\ScoutAI.UI.Properties.Resources.resources
+C:\Users\casper\source\repos\ScoutAIProject1\ScoutAI.UI\obj\Debug\ScoutAI.UI.TeamForm.resources
+C:\Users\casper\source\repos\ScoutAIProject1\ScoutAI.UI\obj\Debug\ScoutAI.UI.csproj.GenerateResource.cache
+C:\Users\casper\source\repos\ScoutAIProject1\ScoutAI.UI\obj\Debug\ScoutAI.UI.csproj.CoreCompileInputs.cache
+C:\Users\casper\source\repos\ScoutAIProject1\ScoutAI.UI\obj\Debug\ScoutAI.UI.csproj.Up2Date
+C:\Users\casper\source\repos\ScoutAIProject1\ScoutAI.UI\obj\Debug\ScoutAI.UI.exe
+C:\Users\casper\source\repos\ScoutAIProject1\ScoutAI.UI\obj\Debug\ScoutAI.UI.pdb
+C:\Users\casper\source\repos\ScoutAIProject1\ScoutAI.UI\obj\Debug\ScoutAI.UI.TransferTableForm.resources
+C:\Users\casper\source\repos\ScoutAIProject1\ScoutAI.UI\obj\Debug\ScoutAI.UI.exe.config
+C:\Users\casper\OneDrive\Masaüstü\2507016071DenizArdaÇELİK SCOUTAI\ScoutAIProject1\ScoutAI.UI\bin\Debug\ScoutAI.UI.exe.config
+C:\Users\casper\OneDrive\Masaüstü\2507016071DenizArdaÇELİK SCOUTAI\ScoutAIProject1\ScoutAI.UI\bin\Debug\ScoutAI.UI.exe
+C:\Users\casper\OneDrive\Masaüstü\2507016071DenizArdaÇELİK SCOUTAI\ScoutAIProject1\ScoutAI.UI\bin\Debug\ScoutAI.UI.pdb
+C:\Users\casper\OneDrive\Masaüstü\2507016071DenizArdaÇELİK SCOUTAI\ScoutAIProject1\ScoutAI.UI\bin\Debug\ScoutAI.BLL.dll
+C:\Users\casper\OneDrive\Masaüstü\2507016071DenizArdaÇELİK SCOUTAI\ScoutAIProject1\ScoutAI.UI\bin\Debug\ScoutAI.Dal.dll
+C:\Users\casper\OneDrive\Masaüstü\2507016071DenizArdaÇELİK SCOUTAI\ScoutAIProject1\ScoutAI.UI\bin\Debug\ScoutAI.Entities.dll
+C:\Users\casper\OneDrive\Masaüstü\2507016071DenizArdaÇELİK SCOUTAI\ScoutAIProject1\ScoutAI.UI\bin\Debug\ScoutAI.Helpers.dll
+C:\Users\casper\OneDrive\Masaüstü\2507016071DenizArdaÇELİK SCOUTAI\ScoutAIProject1\ScoutAI.UI\bin\Debug\ScoutAI.BLL.pdb
+C:\Users\casper\OneDrive\Masaüstü\2507016071DenizArdaÇELİK SCOUTAI\ScoutAIProject1\ScoutAI.UI\bin\Debug\ScoutAI.Dal.pdb
+C:\Users\casper\OneDrive\Masaüstü\2507016071DenizArdaÇELİK SCOUTAI\ScoutAIProject1\ScoutAI.UI\bin\Debug\ScoutAI.Entities.pdb
+C:\Users\casper\OneDrive\Masaüstü\2507016071DenizArdaÇELİK SCOUTAI\ScoutAIProject1\ScoutAI.UI\bin\Debug\ScoutAI.Helpers.pdb
+C:\Users\casper\OneDrive\Masaüstü\2507016071DenizArdaÇELİK SCOUTAI\ScoutAIProject1\ScoutAI.UI\obj\Debug\ScoutAI.UI.csproj.AssemblyReference.cache
+C:\Users\casper\OneDrive\Masaüstü\2507016071DenizArdaÇELİK SCOUTAI\ScoutAIProject1\ScoutAI.UI\obj\Debug\ScoutAI.UI.exe.config
+C:\Users\casper\OneDrive\Masaüstü\2507016071DenizArdaÇELİK SCOUTAI\ScoutAIProject1\ScoutAI.UI\obj\Debug\ScoutAI.UI.AdminMainForm.resources
+C:\Users\casper\OneDrive\Masaüstü\2507016071DenizArdaÇELİK SCOUTAI\ScoutAIProject1\ScoutAI.UI\obj\Debug\ScoutAI.UI.AiScoutReportsForm.resources
+C:\Users\casper\OneDrive\Masaüstü\2507016071DenizArdaÇELİK SCOUTAI\ScoutAIProject1\ScoutAI.UI\obj\Debug\ScoutAI.UI.PlayerDetailForm.resources
+C:\Users\casper\OneDrive\Masaüstü\2507016071DenizArdaÇELİK SCOUTAI\ScoutAIProject1\ScoutAI.UI\obj\Debug\ScoutAI.UI.Properties.Resources.resources
+C:\Users\casper\OneDrive\Masaüstü\2507016071DenizArdaÇELİK SCOUTAI\ScoutAIProject1\ScoutAI.UI\obj\Debug\ScoutAI.UI.TeamForm.resources
+C:\Users\casper\OneDrive\Masaüstü\2507016071DenizArdaÇELİK SCOUTAI\ScoutAIProject1\ScoutAI.UI\obj\Debug\ScoutAI.UI.TransferTableForm.resources
+C:\Users\casper\OneDrive\Masaüstü\2507016071DenizArdaÇELİK SCOUTAI\ScoutAIProject1\ScoutAI.UI\obj\Debug\ScoutAI.UI.csproj.GenerateResource.cache
+C:\Users\casper\OneDrive\Masaüstü\2507016071DenizArdaÇELİK SCOUTAI\ScoutAIProject1\ScoutAI.UI\obj\Debug\ScoutAI.UI.csproj.CoreCompileInputs.cache
+C:\Users\casper\OneDrive\Masaüstü\2507016071DenizArdaÇELİK SCOUTAI\ScoutAIProject1\ScoutAI.UI\obj\Debug\ScoutAI.UI.csproj.Up2Date
+C:\Users\casper\OneDrive\Masaüstü\2507016071DenizArdaÇELİK SCOUTAI\ScoutAIProject1\ScoutAI.UI\obj\Debug\ScoutAI.UI.exe
+C:\Users\casper\OneDrive\Masaüstü\2507016071DenizArdaÇELİK SCOUTAI\ScoutAIProject1\ScoutAI.UI\obj\Debug\ScoutAI.UI.pdb

@@ -1,0 +1,12 @@
+C:\Users\casper\source\repos\ScoutAIProject1\ScoutAI.Entities\bin\Debug\ScoutAI.Entities.dll
+C:\Users\casper\source\repos\ScoutAIProject1\ScoutAI.Entities\bin\Debug\ScoutAI.Entities.pdb
+C:\Users\casper\source\repos\ScoutAIProject1\ScoutAI.Entities\obj\Debug\ScoutAI.Entities.csproj.AssemblyReference.cache
+C:\Users\casper\source\repos\ScoutAIProject1\ScoutAI.Entities\obj\Debug\ScoutAI.Entities.csproj.CoreCompileInputs.cache
+C:\Users\casper\source\repos\ScoutAIProject1\ScoutAI.Entities\obj\Debug\ScoutAI.Entities.dll
+C:\Users\casper\source\repos\ScoutAIProject1\ScoutAI.Entities\obj\Debug\ScoutAI.Entities.pdb
+C:\Users\casper\OneDrive\Masaüstü\2507016071DenizArdaÇELİK SCOUTAI\ScoutAIProject1\ScoutAI.Entities\bin\Debug\ScoutAI.Entities.dll
+C:\Users\casper\OneDrive\Masaüstü\2507016071DenizArdaÇELİK SCOUTAI\ScoutAIProject1\ScoutAI.Entities\bin\Debug\ScoutAI.Entities.pdb
+C:\Users\casper\OneDrive\Masaüstü\2507016071DenizArdaÇELİK SCOUTAI\ScoutAIProject1\ScoutAI.Entities\obj\Debug\ScoutAI.Entities.csproj.AssemblyReference.cache
+C:\Users\casper\OneDrive\Masaüstü\2507016071DenizArdaÇELİK SCOUTAI\ScoutAIProject1\ScoutAI.Entities\obj\Debug\ScoutAI.Entities.csproj.CoreCompileInputs.cache
+C:\Users\casper\OneDrive\Masaüstü\2507016071DenizArdaÇELİK SCOUTAI\ScoutAIProject1\ScoutAI.Entities\obj\Debug\ScoutAI.Entities.dll
+C:\Users\casper\OneDrive\Masaüstü\2507016071DenizArdaÇELİK SCOUTAI\ScoutAIProject1\ScoutAI.Entities\obj\Debug\ScoutAI.Entities.pdb

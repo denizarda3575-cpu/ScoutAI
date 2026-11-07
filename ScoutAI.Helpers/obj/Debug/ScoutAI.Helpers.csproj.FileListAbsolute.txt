@@ -1,0 +1,12 @@
+C:\Users\casper\source\repos\ScoutAIProject1\ScoutAI.Helpers\bin\Debug\ScoutAI.Helpers.dll
+C:\Users\casper\source\repos\ScoutAIProject1\ScoutAI.Helpers\bin\Debug\ScoutAI.Helpers.pdb
+C:\Users\casper\source\repos\ScoutAIProject1\ScoutAI.Helpers\obj\Debug\ScoutAI.Helpers.csproj.AssemblyReference.cache
+C:\Users\casper\source\repos\ScoutAIProject1\ScoutAI.Helpers\obj\Debug\ScoutAI.Helpers.csproj.CoreCompileInputs.cache
+C:\Users\casper\source\repos\ScoutAIProject1\ScoutAI.Helpers\obj\Debug\ScoutAI.Helpers.dll
+C:\Users\casper\source\repos\ScoutAIProject1\ScoutAI.Helpers\obj\Debug\ScoutAI.Helpers.pdb
+C:\Users\casper\OneDrive\Masaüstü\2507016071DenizArdaÇELİK SCOUTAI\ScoutAIProject1\ScoutAI.Helpers\bin\Debug\ScoutAI.Helpers.dll
+C:\Users\casper\OneDrive\Masaüstü\2507016071DenizArdaÇELİK SCOUTAI\ScoutAIProject1\ScoutAI.Helpers\bin\Debug\ScoutAI.Helpers.pdb
+C:\Users\casper\OneDrive\Masaüstü\2507016071DenizArdaÇELİK SCOUTAI\ScoutAIProject1\ScoutAI.Helpers\obj\Debug\ScoutAI.Helpers.csproj.AssemblyReference.cache
+C:\Users\casper\OneDrive\Masaüstü\2507016071DenizArdaÇELİK SCOUTAI\ScoutAIProject1\ScoutAI.Helpers\obj\Debug\ScoutAI.Helpers.csproj.CoreCompileInputs.cache
+C:\Users\casper\OneDrive\Masaüstü\2507016071DenizArdaÇELİK SCOUTAI\ScoutAIProject1\ScoutAI.Helpers\obj\Debug\ScoutAI.Helpers.dll
+C:\Users\casper\OneDrive\Masaüstü\2507016071DenizArdaÇELİK SCOUTAI\ScoutAIProject1\ScoutAI.Helpers\obj\Debug\ScoutAI.Helpers.pdb
